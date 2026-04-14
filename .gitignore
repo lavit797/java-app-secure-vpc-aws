@@ -1,0 +1,13 @@
+*.pem
+*.key
+*.jar
+*.war
+*.class
+target/
+*.log
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
